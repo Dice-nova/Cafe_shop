@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import mysql.connector
+import mysql.connector # type: ignore
 #database will be detailed as: ID, name, price, author/allergens, details, stock
 
 
